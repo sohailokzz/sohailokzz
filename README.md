@@ -1,9 +1,10 @@
 # Hi there, I'm Sohail!👋
 ## 💫About Me :
-• 🔭 I’m currently working on Flutter as Freelancer.<br/>
+• 🏆 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤.<br/>
+• 🔭 I’m currently working on Flutter as a Freelancer on Upwork.<br/>
 • 🌱 I’m currently learning more about Flutter Web/AI/ML.<br/>
-• 🤔 I’m looking for help with how to work more Professional in Flutter.<br/>
-• 💬 Ask me about Flutter, Firebase or any tech-related stuff.<br/>
+• 🤔 I’m looking for help with how to work more professionally in Flutter.<br/>
+• 💬 Ask me about Flutter, Firebase, or any tech-related stuff.<br/>
 • 📫 How to reach me: Twitter - @sohailokzz. <br/>
 • 😄 Pronouns: He/His<br/>
 
