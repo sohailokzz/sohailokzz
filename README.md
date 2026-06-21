@@ -26,9 +26,9 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-I'm a **Senior Flutter Mobile App Developer** with **5+ years of experience** building and shipping cross-platform applications across **fintech, e-commerce, SaaS, and AI domains**.
+I'm a **Flutter Mobile App Developer** with **5+ years of experience** building and shipping cross-platform applications across **fintech, e-commerce, SaaS, and AI domains**.
 
-I've delivered **15+ production apps** — from architecture through App Store release — and I currently hold **Top Rated** status on Upwork with a **100% Job Success Score**.
+I've delivered and worked on **15+ production apps** — from architecture through App Store release — and I currently hold **Top Rated** status on Upwork with a **100% Job Success Score**.
 
 | Category | Details |
 |---|---|
