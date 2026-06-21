@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Sohail&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Flutter%20Developer%20%7C%20Upwork%20Top%20Rated%20%28100%25%20JSS%29&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Sohail&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Flutter%20Mobile%20App%20Developer%20%7C%20Upwork%20Top%20Rated%20%28100%25%20JSS%29&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -29,8 +29,6 @@
 I'm a **Senior Flutter Mobile App Developer** with **5+ years of experience** building and shipping cross-platform applications across **fintech, e-commerce, SaaS, and AI domains**.
 
 I've delivered **15+ production apps** — from architecture through App Store release — and I currently hold **Top Rated** status on Upwork with a **100% Job Success Score**.
-
-I chose Flutter because it lets me build for iOS, Android, and Web from a single codebase without compromising on performance or UI quality. Early on, I saw how much time teams were wasting maintaining separate native codebases, and Flutter solved that cleanly. Over time, it became my core expertise and I've gone deep on architecture, state management, and performance optimization.
 
 | Category | Details |
 |---|---|
@@ -70,7 +68,8 @@ I chose Flutter because it lets me build for iOS, Android, and Web from a single
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### ☁️ Backend & Cloud
 
@@ -78,6 +77,14 @@ I chose Flutter because it lets me build for iOS, Android, and Web from a single
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Development Tools
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Antigravity IDE](https://img.shields.io/badge/Google_Antigravity_IDE-0078D4?style=for-the-badge&logo=google-antigravity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🎨 Design & Prototyping
 
