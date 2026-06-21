@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Sohail&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Top%20Rated%20Flutter%20Developer%20%7C%20Freelancer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Sohail&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Senior%20Flutter%20Developer%20%7C%20Upwork%20Top%20Rated%20%28100%25%20JSS%29&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -26,12 +26,18 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-> *"Building high-quality, scalable mobile applications using Flutter, focusing on performance, clean code, and client satisfaction."*
+I'm a **Senior Flutter Mobile App Developer** with **5+ years of experience** building and shipping cross-platform applications across **fintech, e-commerce, SaaS, and AI domains**.
+
+I've delivered **15+ production apps** — from architecture through App Store release — and I currently hold **Top Rated** status on Upwork with a **100% Job Success Score**.
+
+I chose Flutter because it lets me build for iOS, Android, and Web from a single codebase without compromising on performance or UI quality. Early on, I saw how much time teams were wasting maintaining separate native codebases, and Flutter solved that cleanly. Over time, it became my core expertise and I've gone deep on architecture, state management, and performance optimization.
 
 | Category | Details |
 |---|---|
-| 🏆 **Top Rated** | Upwork Freelancer & Mobile App Developer |
-| 🔭 **Current Focus** | Flutter Mobile App Development as a Freelancer |
+| 🎓 **Education** | BS in Computer Science - KUST Kohat, KPK |
+| 🔭 **Current Focus** | Flutter Mobile App Development as Freelancer & Remote Developer |
+| 🏆 **Achievements** | Upwork Top Rated Freelancer (100% Job Success Score) |
+| 📱 **Expertise** | 15+ Production Apps (Fintech, E-commerce, SaaS, AI) |
 | 🌱 **Learning** | Deep diving into Flutter Web, AI, and Machine Learning |
 | 🤔 **Goal** | Working more professionally in Flutter and writing clean architecture |
 | 💬 **Support** | Ask me about Flutter, Firebase, or any tech-related queries |
@@ -125,9 +131,6 @@
 </div>
 
 ---
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=sohailokzz&icon=0&color=1)](https://visitcount.itsvg.in)
-</div>
 
 <div align="center">
 
