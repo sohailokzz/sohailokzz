@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Top+Rated+Freelancer+on+Upwork+%F0%9F%8F%86;Building+Android+%26+iOS+Apps+%F0%9F%93%B1;Learning+AI%2C+ML+%26+Flutter+Web+%F0%9F%A4%96;Building+the+Future%2C+One+App+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EDBB4E&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer+%F0%9F%9A%80;Top+Rated+Freelancer+on+Upwork+%F0%9F%8F%86;Building+Android+%26+iOS+Apps+%F0%9F%93%B1;Learning+AI%2C+ML+%26+Flutter+Web+%F0%9F%A4%96;Building+the+Future%2C+One+App+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
